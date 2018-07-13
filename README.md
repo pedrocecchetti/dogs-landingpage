@@ -9,3 +9,5 @@ Na minha versão o botão 'Doar' é que mostra o modal, o botão 'Adotar' redire
 - Estilização do rodapé, personalizado pra mim.
 
 - Melhoria do Modal criado no curso.
+
+Acesseo à Landing Page: https://vitorfrancobra.github.io/dogs-landingpage/
