@@ -10,4 +10,4 @@ Na minha versão o botão 'Doar' é que mostra o modal, o botão 'Adotar' redire
 
 - Melhoria do Modal criado no curso.
 
-Acesseo à Landing Page: https://vitorfrancobra.github.io/dogs-landingpage/
+Acesso à Landing Page: https://vitorfrancobra.github.io/dogs-landingpage/
