@@ -1,5 +1,5 @@
 # Dogs LandingPage
-Exercício do mini curso gratuito de desenvolvimento de sites da Hike Academy (modificado/melhorado).
+Exercício do Hike Free, mini curso gratuito de desenvolvimento de sites da Hike Academy (modificado/melhorado).
 
 As melhorias e mudanças foram:
 
