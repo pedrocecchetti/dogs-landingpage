@@ -42,3 +42,7 @@
 body{
 	font-family: 'K2D', sans-serif;
 }
+
+h1, h5 {
+	text-shadow: 2px 1px 1px rgba(9,36,53,0.57);
+}
